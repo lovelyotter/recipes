@@ -4,7 +4,7 @@ Recipe Name
 [link](http://allrecipes.com/Recipe/Grilled-Salmon-I/Detail.aspx)
 
 ##Description
-asfkvhalsjkcvsd
+Teriyaki Salmon
 
 ##Info
 * Servings: 6
